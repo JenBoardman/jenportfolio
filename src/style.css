@@ -88,7 +88,7 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 989px) {
   h1,
   h2,
   h3,
